@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTLM PROJECT</title>
+</head>
+<body>
+    <!--Start Header-->
+    <table 1d="header" border="1" width ="100%" cellpadding="0"
+    cellspacing="0" bgcolor="#f3971b">
+     <tr> 
+         <td>
+            <table border ="1" cellpadding="15" cellspacing ="0"
+              align="center>
+              <tr>
+              <td>
+                <font face ="arial" color ="#00000" size ="5"
+                Harshit Mishra
+              </font>
+              </td>
+              <td>
+                <a href ="">font face ="arial" color = "<div id="ffffff">
+                    Size ="4"></font></a>
+                </div></a>
+              </td>
+            </tr>
+        </table>
+    </td>
+    <!-- End Header-->
+        
+  </figure>
+  <table/ border ="1" cellspacing ="10" cellpadding="10">
+  <tr>
+    <th>
+      S.No
+    </th>
+    <th>
+      student Name
+    </th>
+    <th>
+      Class
+    </th>
+  <tr>
+    <td>
+      1
+    </td>
+    <td>
+      2
+    </td>
+    <td rowpan ="2"
+    <td> Harshit Mishra
+
+    </td>
+    <tr>
+      <td colspan ="3 " align="Center" >Record end</td>
+    </tr>
+<
+  </table>
+</body>
+<h1 align ="center"><b>KIET GROUP OF INSTITUTION,DELHI-NCR,GZB</b></h1>
+<P  align =" center"> Department of Computer Applications(NBA Accredited) </P>
+<p  align =" center" > font size="4" (An Iso-9001:2015 Certified & 'A+'Grade accredited Institution By NAAC</font>
+<P  align ="center " >font size =5 <b> Time-Table (Odd Sem ,Session 2023-24) </b></P>
+<p>  font><b>Course MCA < spam>Semester 1</span> Section C</spam></b></font></p>
+<table align ="center" border="1" cellpadding ="8" cellspacing="3"
+</td>
+</tale>
+
+
+</html>
