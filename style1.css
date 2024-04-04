@@ -1,0 +1,35 @@
+.parent{
+    background-color: aqua;
+    display:flex;
+    margin: 20px 0;
+}
+
+ .parent1{
+    justify-content: space-between;
+    background-color: blue;
+    display: flex;
+
+ }
+ .parent2{
+     justify-content: space-evenly;
+     background-color:red ;
+     display: flex;
+ }
+  .parent3{
+     justify-content:space-around;
+     background-color: green;
+     display: flex;
+
+  }
+   .parent4{
+     justify-content:flex-end;
+     background-color: palegreen;
+     display: flex;
+   }
+
+    .child{
+        background-color:orange ;
+        padding: 10px;
+        text-align: 10px;
+        border: 2px solid rebeccapurple;
+    }
