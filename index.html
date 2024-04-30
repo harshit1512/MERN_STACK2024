@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New's App</title>
+    <link rel="stylesheet" href="news.css">
+</head>
+<body>
+    <nav>
+        <div class="main-nav ">
+            
+            <a href="#" onclick="reload" class="company-logo">
+                <img src="https://t4.ftcdn.net/jpg/01/66/52/39/360_F_166523930_XzLaIVUlXha2AB6JgRShWp2je0FBLnJi.jpg " alt="Comapny logo">
+            </a>
+            <div class="nav-links">
+                <ul>
+                  <li class="hover-link nav-item" id="ipl" onclick="onNavItemClick('ipl')">IPL</li>
+                  <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('finance')">Finance</li>
+                  <li class="hover-link nav-item" id="Politics"onclick="onNavItemClick('Politics')">Politics</li>
+                  <li class="hover-link nav-item" id="Technology" onclick="onNavItemClick('Technology')">Technology</li>
+                </ul>
+            </div>
+             <div class="search-bar ">
+                <input id="search-text" type="text" class="news-input" placeholder="e.g.Science">
+                <button  id = "search-button" class="search-button">search</button>
+            
+               
+            </div>
+        </div>
+    </nav>
+
+ 
+    <main>
+        <div class="cards-container ">
+            <div class="card">
+                <div class="card-header">
+                    <img src="https://via.placeholder.com/400x200" alt="news-image" id="news-img">
+                </div>
+                <div class="card-content">
+                    <h3 id="news-title">This is the Title</h3>
+                    <h6 class="news-source" id="news-source">End Gadget 14/04/2024</h6>
+                    <p class="news-desc" id="news-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, tempore eveniet quos itaque nemo quia eos nulla cumque eaque ipsum.</p>
+
+                </div>
+            </div>
+        </div>
+   
+   container
+    <template id="template-news-card">
+        <div class="card">
+            <div class="card-header">
+                <img src="https://via.placeholder.com/400x200" alt="news-image" id="news-img">
+            </div>
+            <div class="card-content">
+                <h3 id="news-title">This is the Title</h3>
+                <h6 class="news-source" id="news-source">End Gadget 14/04/2023</h6>
+                <p class="news-desc" id="news-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, tempore eveniet quos itaque nemo quia eos nulla cumque eaque ipsum.</p>
+
+            </div>
+        </div>
+
+    </template>
+    
+    <template id="template-news-card">
+        <div class="card">
+            <div class="card-header">
+                <img src="https://via.placeholder.com/400x200" alt="news-image" id="news-img">
+            </div>
+            <div class="card-content">
+                <h3 id="news-title">This is the Title</h3>
+                <h6 class="news-source" id="news-source">End Gadget 14/04/2023</h6>
+                <p class="news-desc" id="news-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, tempore eveniet quos itaque nemo quia eos nulla cumque eaque ipsum.</p>
+
+            </div>
+        </div>
+
+    </template>
+
+</main>
+    <script src="news.js"></script>
+    
+</body>
+</html>
